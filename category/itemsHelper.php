@@ -1,5 +1,6 @@
 <?php
 /// create this under apps/models as itemsHelper.php
+// its not my art. found in stackoverflow
 
   class ItemsHelper {
 
